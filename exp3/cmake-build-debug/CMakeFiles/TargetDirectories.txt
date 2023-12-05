@@ -1,3 +1,0 @@
-/home/russ/OSExperiment/exp3/cmake-build-debug/CMakeFiles/exp3.dir
-/home/russ/OSExperiment/exp3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/russ/OSExperiment/exp3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
